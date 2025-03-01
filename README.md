@@ -40,7 +40,7 @@
 
 4. Run the cells: Execute each cell in the notebook to see the analysis and predictions.
 
-Project Steps
+*Project Steps*
 Data Cleaning and Preprocessing:
 
 Handled missing values and removed irrelevant data.
