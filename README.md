@@ -57,7 +57,7 @@
 
  6. Explored the relationship between difficulty and win rate using scatter plots.
 
-*3. Machine Learning Models:*
+*Machine Learning Models:*
 
  7. Linear Regression: Used as a baseline model.
 
@@ -65,7 +65,7 @@
 
  9. Models were evaluated using R² score and Mean Absolute Error (MAE).
 
-*4. Results and Recommendations:*
+*Results and Recommendations:*
 
  10. The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
    
