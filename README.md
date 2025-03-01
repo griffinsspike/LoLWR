@@ -71,7 +71,7 @@
    
 *   Users can input their preferred role and playstyle to receive personalized champion recommendations.
    
- ## Results ##
+ ## *Results* ##
 *   Achieved an R² score of 0.89 using Random Forest.
 
 *   Provided user-specific champion recommendations based on role and playstyle.
