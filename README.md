@@ -43,33 +43,33 @@
 ## *Project Steps*
 *Data Cleaning and Preprocessing:*
 
-1. Handled missing values and removed irrelevant data.
+*   Handled missing values and removed irrelevant data.
 
-2. Encoded categorical variables using Label Encoding and One-Hot Encoding.
+*   Encoded categorical variables using Label Encoding and One-Hot Encoding.
 
-3. Normalized numerical features.
+*   Normalized numerical features.
 
 *Exploratory Data Analysis (EDA):*
 
- 4. Visualized the distribution of win rates using histograms.
+*   Visualized the distribution of win rates using histograms.
 
- 5. Analyzed win rates by role using box plots.
+*   Analyzed win rates by role using box plots.
 
- 6. Explored the relationship between difficulty and win rate using scatter plots.
+*   Explored the relationship between difficulty and win rate using scatter plots.
 
 *Machine Learning Models:*
 
- 7. Linear Regression: Used as a baseline model.
+*   Linear Regression: Used as a baseline model.
 
- 8. Random Forest Regressor: Captured non-linear relationships in the data.
+*   Random Forest Regressor: Captured non-linear relationships in the data.
 
- 9. Models were evaluated using R² score and Mean Absolute Error (MAE).
+*   Models were evaluated using R² score and Mean Absolute Error (MAE).
 
 *Results and Recommendations:*
 
- 10. The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
+*   The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
    
- 11. Users can input their preferred role and playstyle to receive personalized champion recommendations.
+*   Users can input their preferred role and playstyle to receive personalized champion recommendations.
    
  ## Results ##
 *   Achieved an R² score of 0.89 using Random Forest.
