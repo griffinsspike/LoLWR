@@ -41,37 +41,37 @@
 4. Run the cells: Execute each cell in the notebook to see the analysis and predictions.
 
 ## *Project Steps*
- **1. Data Cleaning and Preprocessing:**
+ *1. Data Cleaning and Preprocessing:*
 
-Handled missing values and removed irrelevant data.
+   Handled missing values and removed irrelevant data.
 
-Encoded categorical variables using Label Encoding and One-Hot Encoding.
+   Encoded categorical variables using Label Encoding and One-Hot Encoding.
 
-Normalized numerical features.
+   Normalized numerical features.
 
-**2. Exploratory Data Analysis (EDA):**
+*2. Exploratory Data Analysis (EDA):*
 
-Visualized the distribution of win rates using histograms.
+   Visualized the distribution of win rates using histograms.
 
-Analyzed win rates by role using box plots.
+   Analyzed win rates by role using box plots.
 
-Explored the relationship between difficulty and win rate using scatter plots.
+   Explored the relationship between difficulty and win rate using scatter plots.
 
-**3. Machine Learning Models:**
+*3. Machine Learning Models:*
 
-Linear Regression: Used as a baseline model.
+   Linear Regression: Used as a baseline model.
 
-Random Forest Regressor: Captured non-linear relationships in the data.
+   Random Forest Regressor: Captured non-linear relationships in the data.
 
-Models were evaluated using R² score and Mean Absolute Error (MAE).
+   Models were evaluated using R² score and Mean Absolute Error (MAE).
 
-**4. Results and Recommendations:**
+*4. Results and Recommendations:*
 
-The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
-
-Users can input their preferred role and playstyle to receive personalized champion recommendations.
-
-Results
-Achieved an R² score of 0.89 using Random Forest.
+   The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
+   
+   Users can input their preferred role and playstyle to receive personalized champion recommendations.
+   
+   Results
+   Achieved an R² score of 0.89 using Random Forest.
 
 Provided user-specific champion recommendations based on role and playstyle.
