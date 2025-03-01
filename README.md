@@ -47,31 +47,31 @@
 
 2. Encoded categorical variables using Label Encoding and One-Hot Encoding.
 
-3.   Normalized numerical features.
+3. Normalized numerical features.
 
 *Exploratory Data Analysis (EDA):*
 
-   Visualized the distribution of win rates using histograms.
+ 4. Visualized the distribution of win rates using histograms.
 
-   Analyzed win rates by role using box plots.
+ 5. Analyzed win rates by role using box plots.
 
-   Explored the relationship between difficulty and win rate using scatter plots.
+ 6. Explored the relationship between difficulty and win rate using scatter plots.
 
 *3. Machine Learning Models:*
 
-   Linear Regression: Used as a baseline model.
+ 7. Linear Regression: Used as a baseline model.
 
-   Random Forest Regressor: Captured non-linear relationships in the data.
+ 8. Random Forest Regressor: Captured non-linear relationships in the data.
 
-   Models were evaluated using R² score and Mean Absolute Error (MAE).
+ 9. Models were evaluated using R² score and Mean Absolute Error (MAE).
 
 *4. Results and Recommendations:*
 
-   The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
+ 10. The model successfully predicted win rates and provided recommendations for the top champions in each role (Top, Jungle, Mid, Support, ADC).
    
-   Users can input their preferred role and playstyle to receive personalized champion recommendations.
+ 11. Users can input their preferred role and playstyle to receive personalized champion recommendations.
    
-   Results
+ 12. Results
    Achieved an R² score of 0.89 using Random Forest.
 
 Provided user-specific champion recommendations based on role and playstyle.
